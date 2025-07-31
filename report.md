@@ -3,7 +3,7 @@ Intro to Databases
 
 1. Flat File Systems vs. Relational Databases
 
-![Comparsion table](comprsiontable.png)
+![Comparsion table](comparsiontable.png)
 
 2. DBMS Advantages – Mind Map
 ![Mind map](mindmap.png)
